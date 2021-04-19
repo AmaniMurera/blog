@@ -750,6 +750,7 @@ nav hr {
   opacity: 0.9;
   z-index: 2;
   background-color: #01a2a6;
+  background-color: rgba(1, 162, 166,0.84);
   left: 0;
 }
 .overlay .container {
